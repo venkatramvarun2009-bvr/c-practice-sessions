@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
