@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0238-product-of-array-except-self) |
 ## Bit Manipulation
 |  |
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
