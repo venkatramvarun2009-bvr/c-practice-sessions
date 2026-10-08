@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0238-product-of-array-except-self) |
+| [0867-transpose-matrix](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,8 +67,10 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
