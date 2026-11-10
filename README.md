@@ -59,10 +59,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
