@@ -75,8 +75,10 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0867-transpose-matrix) |
+| [3813-vowel-consonant-score](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/3813-vowel-consonant-score) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0242-valid-anagram) |
+| [3813-vowel-consonant-score](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
