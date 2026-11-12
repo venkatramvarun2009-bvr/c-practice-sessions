@@ -9,7 +9,7 @@ public:
 
         }
         if(c>0)
-            score=floor(v/c);
+            score=v/c;
         return score;
     }
 };
