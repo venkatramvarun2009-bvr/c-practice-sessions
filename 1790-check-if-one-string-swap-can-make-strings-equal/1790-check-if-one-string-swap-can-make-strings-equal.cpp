@@ -3,20 +3,20 @@ public:
     bool areAlmostEqual(string s1, string s2) {
         if(s1==s2)
             return true;
-        int n=s1.length();
-        for( int i=0;i<n;i++){
-            char temp;
-            for( int j=1;j<n;j++){
-                temp=s2[j];
-                s2[j]=s2[i];
-                s2[i]=temp;
-                if(s1==s2)
-                    return true;
-                temp=s2[j];
-                s2[j]=s2[i];
-                s2[i]=temp;
+        int count=0,idx1=-1,idx2=-1;
+        for( int i=0;i<s1.length();i++){
+            if(s1[i]!=s2[i]){
+                count++;
+                if(idx1==-1)
+                    idx1=i;
+                else if(idx2==-1)
+                    idx2=i;
             }
         }
-    return false;
-    }
+        if(count==2 && s1[idx1]==s2[idx2] && s1[idx2]==s2[idx1]){
+            return true;
+        }
+        return false;
+        }
+
 };
