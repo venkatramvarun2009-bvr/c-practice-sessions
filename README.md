@@ -60,6 +60,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0242-valid-anagram) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -80,5 +81,10 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0242-valid-anagram) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [3813-vowel-consonant-score](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/3813-vowel-consonant-score) |
+## Counting
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
