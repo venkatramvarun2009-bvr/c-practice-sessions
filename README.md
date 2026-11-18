@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0238-product-of-array-except-self) |
 | [0867-transpose-matrix](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/0867-transpose-matrix) |
+| [3979-maximum-valid-pair-sum](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/3979-maximum-valid-pair-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,4 +92,8 @@
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Enumeration
+|  |
+| ------- |
+| [3979-maximum-valid-pair-sum](https://github.com/venkatramvarun2009-bvr/c-practice-sessions/tree/master/3979-maximum-valid-pair-sum) |
 <!---LeetCode Topics End-->
